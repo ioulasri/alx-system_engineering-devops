@@ -1,1 +1,2 @@
-The basics of shell
+THE START OF SHELL SCRIPTING
+
