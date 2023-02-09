@@ -1,0 +1,12 @@
+#!/bin/bash
+
+# Loop through all files in the current directory
+for file in *; do
+  # Print the name of the file
+  echo "File name: $file"
+  
+  # Print the content of the file
+  echo "File content:"
+  cat $file
+  echo
+done
